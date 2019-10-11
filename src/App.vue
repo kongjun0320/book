@@ -9,9 +9,7 @@
   width: 100vw;
   height: 100vh;
   background-color: #f1f2f3;
-  .cls{
 
-  }
   .cls{
 
   }
